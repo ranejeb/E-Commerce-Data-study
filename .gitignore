@@ -1,2 +1,5 @@
 *.zip
 *.db
+
+env/
+project_db
